@@ -78,6 +78,15 @@
             margin-right: 3rem;
         }
         
+        header .container .right a {
+            color: white;
+            text-decoration: none;
+        }
+        
+        header .container .right a:hover {
+            color: var(--primary);
+        }
+        
         .hero {
             padding: 3rem 0;
         }
